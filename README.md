@@ -12,7 +12,8 @@ Table 2: People: Information of Sales person
 Table 3: Returns: Information of Returned orders
 
 ### 2. Data Dictionary
-![image](https://github.com/user-attachments/assets/2216f3a5-c671-46c3-9add-bc3c0636dc65)
+![235484439-cc348e38-5a4b-48a5-aee0-ad5de3ea35ee](https://github.com/user-attachments/assets/9528c899-cfa8-4942-9338-a2dad1e0f7d6)
+
 
 ### 3. Business Questions
 - Presenting business situation in international markets to Senior Manager.
@@ -20,12 +21,15 @@ Table 3: Returns: Information of Returned orders
 
 ## II. Visualization
 ### 1. Overview
+
 ![image](https://github.com/user-attachments/assets/e1da748a-8211-4472-9e32-88aaa2ba03b0)
 
 ### 2. Product Analysis
+
 ![image](https://github.com/user-attachments/assets/d12c822e-5d56-4227-a1b8-b5ad01d67e95)
 
 ### 3. Regional Analysis
+
 ![image](https://github.com/user-attachments/assets/fe3f2b67-bda4-487f-92f2-20267b9ae30c)
 
 
