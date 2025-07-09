@@ -26,7 +26,8 @@ Table 3: Returns: Information of Returned orders
 ![image](https://github.com/user-attachments/assets/d12c822e-5d56-4227-a1b8-b5ad01d67e95)
 
 ### 3. Regional Analysis
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fe3f2b67-bda4-487f-92f2-20267b9ae30c)
+
 
 ## III. Recommendation + Insight
 - Market Expansion: Focus on EMEA & Africa (high profit growth), maintain APAC & US, reconsider Canada (low revenue).
